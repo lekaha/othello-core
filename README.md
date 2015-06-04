@@ -1,7 +1,7 @@
 # Othello core
 
 # How to use
-```
+```python
 matrix = initGame()
 render(matrix)
 
